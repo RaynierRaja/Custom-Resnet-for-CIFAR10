@@ -1,6 +1,7 @@
 # Custom Resnet Using Keras 
 This project is to create a Custom Resnet network and Train it on the CIFAR10 dataset
 ## Model Details
+![](images/Model.png)
 
 ## Training Details
 Epoch         : 10  
