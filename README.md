@@ -1,7 +1,7 @@
 # Custom Resnet Using Keras 
 This project is to create a Custom Resnet network and Train it on the CIFAR10 dataset
 ## Model Details
-![](images/Model.png)
+![](Images/Model.png)
 
 ## Training Details
 Epoch         : 10  
@@ -10,7 +10,10 @@ Optimizer     : RMSProp
 Loss          : Cross Entropy  
 Hardware      : GTX1650 4GB  
 
-# Result
+## Result
 Train Accuarcy      : 96.96 %  
 Validation Accuracy : 73.00 %  
 Test Accuracy       : 72.18 %  
+
+### Sample Output
+![](Images/Output.png)
